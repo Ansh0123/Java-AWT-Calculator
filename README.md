@@ -8,7 +8,7 @@
 # How to use
   1 . As of now the input from keyboard is disabled, You can use mouse key to press numbers and operation on calculator UI. <br />
 
-# On Going development
+# Further Enhancement
   1 . Enabling multiple operation in one go (May be a hint to use postfix and stack calculation). <br />
   2 . Enabling history option. <br />
   3 . Enabling converter option. <br />
